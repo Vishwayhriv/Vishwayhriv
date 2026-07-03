@@ -1,16 +1,127 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Vishwayhriv/Vishwayhriv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Vishwanath
 
-Here are some ideas to get you started:
+### 🚀 Java Developer | Android Developer | Full Stack Developer | AI Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Java+Developer;Android+Developer;Full+Stack+Developer;AI+Enthusiast;Always+Learning+New+Things" />
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Information Science Engineering Student
+- ☕ Passionate Java Developer
+- 📱 Android App Developer
+- 🌐 Full Stack Developer
+- 🤖 AI & Machine Learning Enthusiast
+- 💡 Love solving real-world problems
+- 🌱 Currently learning Spring Boot & React
+
+---
+
+# 🛠 Tech Stack
+
+### 💻 Languages
+
+![Java](https://skillicons.dev/icons?i=java)
+![Python](https://skillicons.dev/icons?i=python)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+
+### ⚙ Frameworks & Tools
+
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![Android Studio](https://skillicons.dev/icons?i=androidstudio)
+![VS Code](https://skillicons.dev/icons?i=vscode)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![IntelliJ](https://skillicons.dev/icons?i=idea)
+
+---
+
+# 💼 Experience
+
+### 🚀 Full Stack Developer Intern
+
+**IVIS Labs Pvt Ltd**
+
+- Responsive Web Development
+- Java Backend Development
+- Python Programming
+- REST API Development
+- MySQL Database
+
+---
+
+### 📱 Android Development Intern
+
+- Google Maps API
+- GPS Tracking
+- Android Development
+
+---
+
+# 🚀 Projects
+
+## 🌾 Crop & Fertilizer Recommendation System
+
+- Machine Learning
+- Random Forest
+- Python
+- Pandas
+- NumPy
+
+---
+
+## 📊 Algorithm Visualizer
+
+- Java
+- Bubble Sort
+- Merge Sort
+- Binary Search
+
+---
+
+## 📚 Library Management System
+
+- Java
+- JDBC
+- MySQL
+
+---
+
+# 📈 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1)
+
+---
+
+# 🌐 Connect With Me
+
+📧 Email: **vishwanathgonar@gmail.com**
+
+💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+
+💻 GitHub: https://github.com/YOUR_USERNAME
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+</div>
